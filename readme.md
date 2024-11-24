@@ -45,6 +45,6 @@ Found 50 URLs. Sending to IndexNow...
 URLs successfully submitted to IndexNow.
 ```
 
-License
+### License
 
 MIT License
